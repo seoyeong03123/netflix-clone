@@ -7,7 +7,8 @@ const Wrapper = styled.div`
 
 const MovieContainer = props =>{
     return(
-        <Wrapper>MovieContainer</Wrapper>
+        <Wrapper>MovieContainer
+        </Wrapper>
     )
 }
 

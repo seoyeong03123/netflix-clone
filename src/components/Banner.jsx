@@ -7,6 +7,10 @@ const Wrapper = styled.div`
     display : flex;
     padding: 20px 58px;
     box-sizing:border-box;
+    position:fixed;
+    top:0;
+    left: 0;
+    right:0;
 `;
 
 const Logo = styled.img`
@@ -41,7 +45,6 @@ const NavTextItem = styled.li`
     }
 
 `;
-    
 
 const NavIcon = styled.ul`
     display:flex;
